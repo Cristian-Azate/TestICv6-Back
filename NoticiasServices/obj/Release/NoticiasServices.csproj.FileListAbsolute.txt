@@ -1,0 +1,13 @@
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasServices\bin\Release\NoticiasServices.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasServices\bin\Release\NoticiasServices.pdb
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasServices\bin\Release\NoticiasBusinessEntities.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasServices\bin\Release\NoticiasInterfaces.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasServices\bin\Release\NoticiasMethodParameters.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasServices\bin\Release\NoticiasBusinessEntities.pdb
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasServices\bin\Release\NoticiasInterfaces.pdb
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasServices\bin\Release\NoticiasMethodParameters.pdb
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasServices\obj\Release\NoticiasServices.csproj.AssemblyReference.cache
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasServices\obj\Release\NoticiasServices.csproj.CoreCompileInputs.cache
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasServices\obj\Release\NoticiasServices.csproj.CopyComplete
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasServices\obj\Release\NoticiasServices.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasServices\obj\Release\NoticiasServices.pdb

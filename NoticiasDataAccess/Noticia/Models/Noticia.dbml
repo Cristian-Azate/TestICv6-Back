@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="TestICv6" Class="NoticiaDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-JVA4PHO\SQLEXPRESS;Initial Catalog=TestICv6;User ID=sa" SettingsObjectName="NoticiasDataAccess.Properties.Settings" SettingsPropertyName="TestICv6ConnectionString" Provider="System.Data.SqlClient" />
+  <Function Name="dbo.Noticias_Consultar_Todas" Method="Noticias_Consultar_Todas">
+    <ElementType Name="Noticias_Consultar_TodasResult">
+      <Column Name="NoticiaId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Titulo" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="Cuerpo" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="FechaCreacion" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Imagen" Type="System.Data.Linq.Binary" DbType="VarBinary(MAX)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.Noticias_Insertar" Method="Noticias_Insertar">
+    <Parameter Name="Titulo" Parameter="titulo" Type="System.String" DbType="NVarChar(100)" />
+    <Parameter Name="Cuerpo" Parameter="cuerpo" Type="System.String" DbType="NVarChar(MAX)" />
+    <Parameter Name="FechaCreacion" Parameter="fechaCreacion" Type="System.DateTime" DbType="DateTime" />
+    <Parameter Name="Imagen" Parameter="imagen" Type="System.Data.Linq.Binary" DbType="VarBinary(MAX)" />
+    <Return Type="System.Int32" />
+  </Function>
+</Database>

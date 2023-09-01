@@ -1,0 +1,39 @@
+C:\Users\Azate\Desktop\TestICv6\NoticiasBusinessComponents\bin\Debug\NoticiasBusinessComponents.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasBusinessComponents\bin\Debug\NoticiasBusinessComponents.pdb
+C:\Users\Azate\Desktop\TestICv6\NoticiasBusinessComponents\bin\Debug\NoticiasBusinessEntities.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasBusinessComponents\bin\Debug\NoticiasInterfaces.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasBusinessComponents\bin\Debug\NoticiasMethodParameters.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasBusinessComponents\bin\Debug\NoticiasBusinessEntities.pdb
+C:\Users\Azate\Desktop\TestICv6\NoticiasBusinessComponents\bin\Debug\NoticiasInterfaces.pdb
+C:\Users\Azate\Desktop\TestICv6\NoticiasBusinessComponents\bin\Debug\NoticiasMethodParameters.pdb
+C:\Users\Azate\Desktop\TestICv6\NoticiasBusinessComponents\obj\Debug\NoticiasBusinessComponents.csproj.AssemblyReference.cache
+C:\Users\Azate\Desktop\TestICv6\NoticiasBusinessComponents\obj\Debug\NoticiasBusinessComponents.csproj.CoreCompileInputs.cache
+C:\Users\Azate\Desktop\TestICv6\NoticiasBusinessComponents\obj\Debug\NoticiasBusinessComponents.csproj.CopyComplete
+C:\Users\Azate\Desktop\TestICv6\NoticiasBusinessComponents\obj\Debug\NoticiasBusinessComponents.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasBusinessComponents\obj\Debug\NoticiasBusinessComponents.pdb
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasBusinessComponents\bin\Debug\NoticiasBusinessComponents.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasBusinessComponents\bin\Debug\NoticiasBusinessComponents.pdb
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasBusinessComponents\bin\Debug\NoticiasBusinessEntities.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasBusinessComponents\bin\Debug\NoticiasInterfaces.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasBusinessComponents\bin\Debug\NoticiasMethodParameters.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasBusinessComponents\bin\Debug\NoticiasBusinessEntities.pdb
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasBusinessComponents\bin\Debug\NoticiasInterfaces.pdb
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasBusinessComponents\bin\Debug\NoticiasMethodParameters.pdb
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasBusinessComponents\obj\Debug\NoticiasBusinessComponents.csproj.AssemblyReference.cache
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasBusinessComponents\obj\Debug\NoticiasBusinessComponents.csproj.CoreCompileInputs.cache
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasBusinessComponents\obj\Debug\NoticiasBusinessComponents.csproj.CopyComplete
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasBusinessComponents\obj\Debug\NoticiasBusinessComponents.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasBusinessComponents\obj\Debug\NoticiasBusinessComponents.pdb
+C:\Users\Azate\Desktop\TestICv6\TestICv6 - Back\NoticiasBusinessComponents\bin\Debug\NoticiasBusinessComponents.dll
+C:\Users\Azate\Desktop\TestICv6\TestICv6 - Back\NoticiasBusinessComponents\bin\Debug\NoticiasBusinessComponents.pdb
+C:\Users\Azate\Desktop\TestICv6\TestICv6 - Back\NoticiasBusinessComponents\bin\Debug\NoticiasBusinessEntities.dll
+C:\Users\Azate\Desktop\TestICv6\TestICv6 - Back\NoticiasBusinessComponents\bin\Debug\NoticiasInterfaces.dll
+C:\Users\Azate\Desktop\TestICv6\TestICv6 - Back\NoticiasBusinessComponents\bin\Debug\NoticiasMethodParameters.dll
+C:\Users\Azate\Desktop\TestICv6\TestICv6 - Back\NoticiasBusinessComponents\bin\Debug\NoticiasBusinessEntities.pdb
+C:\Users\Azate\Desktop\TestICv6\TestICv6 - Back\NoticiasBusinessComponents\bin\Debug\NoticiasInterfaces.pdb
+C:\Users\Azate\Desktop\TestICv6\TestICv6 - Back\NoticiasBusinessComponents\bin\Debug\NoticiasMethodParameters.pdb
+C:\Users\Azate\Desktop\TestICv6\TestICv6 - Back\NoticiasBusinessComponents\obj\Debug\NoticiasBusinessComponents.csproj.AssemblyReference.cache
+C:\Users\Azate\Desktop\TestICv6\TestICv6 - Back\NoticiasBusinessComponents\obj\Debug\NoticiasBusinessComponents.csproj.CoreCompileInputs.cache
+C:\Users\Azate\Desktop\TestICv6\TestICv6 - Back\NoticiasBusinessComponents\obj\Debug\NoticiasBusinessComponents.csproj.CopyComplete
+C:\Users\Azate\Desktop\TestICv6\TestICv6 - Back\NoticiasBusinessComponents\obj\Debug\NoticiasBusinessComponents.dll
+C:\Users\Azate\Desktop\TestICv6\TestICv6 - Back\NoticiasBusinessComponents\obj\Debug\NoticiasBusinessComponents.pdb

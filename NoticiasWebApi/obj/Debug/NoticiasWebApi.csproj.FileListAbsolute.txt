@@ -1,0 +1,234 @@
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\NoticiasWebApi.dll.config
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\NoticiasWebApi.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\NoticiasWebApi.pdb
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\roslyn\csc.exe
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\roslyn\csc.exe.config
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\roslyn\csc.rsp
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\roslyn\csi.exe
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\roslyn\csi.exe.config
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\roslyn\csi.rsp
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\roslyn\System.AppContext.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\roslyn\System.Console.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\roslyn\System.Net.Http.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\roslyn\vbc.exe
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\roslyn\vbc.exe.config
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\roslyn\vbc.rsp
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\Antlr3.Runtime.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\Newtonsoft.Json.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\System.Web.Helpers.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\System.Web.Http.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\System.Web.Mvc.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\System.Web.Optimization.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\System.Web.Razor.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\System.Web.WebPages.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\WebGrease.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\Newtonsoft.Json.xml
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\System.Web.Helpers.xml
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\System.Web.Http.xml
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\System.Web.Mvc.xml
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\System.Web.Optimization.xml
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\System.Web.Razor.xml
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\System.Web.WebPages.xml
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\Antlr3.Runtime.pdb
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\es\System.Web.Http.resources.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\es\System.Web.Razor.resources.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\obj\Debug\NoticiasWebApi.csproj.AssemblyReference.cache
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\obj\Debug\NoticiasWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\obj\Debug\NoticiasWebApi.csproj.CopyComplete
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\obj\Debug\NoticiasWebApi.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\obj\Debug\NoticiasWebApi.pdb
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\NoticiasBusinessEntities.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\NoticiasServices.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\NoticiasInterfaces.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\NoticiasMethodParameters.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\NoticiasBusinessEntities.pdb
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\NoticiasServices.pdb
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\NoticiasInterfaces.pdb
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\NoticiasMethodParameters.pdb
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\Unity.Abstractions.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\Unity.Container.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\Unity.WebApi.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\Unity.Abstractions.pdb
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\Unity.Container.pdb
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\NoticiasBusinessComponents.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\NoticiasDataAccess.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\NoticiasBusinessComponents.pdb
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\NoticiasDataAccess.pdb
+C:\Users\Azate\Desktop\TestICv6\NoticiasWebApi\bin\NoticiasDataAccess.dll.config
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\NoticiasWebApi.dll.config
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\NoticiasWebApi.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\NoticiasWebApi.pdb
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\roslyn\csc.exe
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\roslyn\csc.exe.config
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\roslyn\csc.rsp
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\roslyn\csi.exe
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\roslyn\csi.exe.config
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\roslyn\csi.rsp
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\roslyn\System.AppContext.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\roslyn\System.Console.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\roslyn\System.Net.Http.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\roslyn\vbc.exe
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\roslyn\vbc.exe.config
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\roslyn\vbc.rsp
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\Antlr3.Runtime.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\Newtonsoft.Json.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\NoticiasBusinessComponents.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\NoticiasBusinessEntities.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\NoticiasDataAccess.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\NoticiasInterfaces.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\NoticiasServices.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\System.Web.Helpers.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\System.Web.Http.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\System.Web.Mvc.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\System.Web.Optimization.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\System.Web.Razor.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\System.Web.WebPages.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\Unity.Abstractions.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\Unity.Container.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\Unity.WebApi.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\WebGrease.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\NoticiasMethodParameters.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\NoticiasBusinessComponents.pdb
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\NoticiasBusinessEntities.pdb
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\NoticiasDataAccess.pdb
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\NoticiasDataAccess.dll.config
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\NoticiasInterfaces.pdb
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\NoticiasServices.pdb
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\Newtonsoft.Json.xml
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\System.Web.Helpers.xml
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\System.Web.Http.xml
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\System.Web.Mvc.xml
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\System.Web.Optimization.xml
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\System.Web.Razor.xml
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\System.Web.WebPages.xml
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\Unity.Abstractions.pdb
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\Unity.Container.pdb
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\Antlr3.Runtime.pdb
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\NoticiasMethodParameters.pdb
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\es\System.Web.Http.resources.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\es\System.Web.Razor.resources.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\obj\Debug\NoticiasWebApi.csproj.AssemblyReference.cache
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\obj\Debug\NoticiasWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\obj\Debug\NoticiasWebApi.csproj.CopyComplete
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\obj\Debug\NoticiasWebApi.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasWebApi\obj\Debug\NoticiasWebApi.pdb

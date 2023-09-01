@@ -1,0 +1,12 @@
+C:\Users\Azate\Desktop\TestICv6\NoticiasBusinessEntities\bin\Debug\NoticiasBusinessEntities.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasBusinessEntities\bin\Debug\NoticiasBusinessEntities.pdb
+C:\Users\Azate\Desktop\TestICv6\NoticiasBusinessEntities\obj\Debug\NoticiasBusinessEntities.csproj.AssemblyReference.cache
+C:\Users\Azate\Desktop\TestICv6\NoticiasBusinessEntities\obj\Debug\NoticiasBusinessEntities.csproj.CoreCompileInputs.cache
+C:\Users\Azate\Desktop\TestICv6\NoticiasBusinessEntities\obj\Debug\NoticiasBusinessEntities.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasBusinessEntities\obj\Debug\NoticiasBusinessEntities.pdb
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasBusinessEntities\bin\Debug\NoticiasBusinessEntities.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasBusinessEntities\bin\Debug\NoticiasBusinessEntities.pdb
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasBusinessEntities\obj\Debug\NoticiasBusinessEntities.csproj.AssemblyReference.cache
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasBusinessEntities\obj\Debug\NoticiasBusinessEntities.csproj.CoreCompileInputs.cache
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasBusinessEntities\obj\Debug\NoticiasBusinessEntities.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasBusinessEntities\obj\Debug\NoticiasBusinessEntities.pdb

@@ -1,0 +1,6 @@
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasBusinessEntities\bin\Release\NoticiasBusinessEntities.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasBusinessEntities\bin\Release\NoticiasBusinessEntities.pdb
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasBusinessEntities\obj\Release\NoticiasBusinessEntities.csproj.AssemblyReference.cache
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasBusinessEntities\obj\Release\NoticiasBusinessEntities.csproj.CoreCompileInputs.cache
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasBusinessEntities\obj\Release\NoticiasBusinessEntities.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasBusinessEntities\obj\Release\NoticiasBusinessEntities.pdb

@@ -1,0 +1,42 @@
+C:\Users\Azate\Desktop\TestICv6\NoticiasDataAccess\bin\Debug\NoticiasDataAccess.dll.config
+C:\Users\Azate\Desktop\TestICv6\NoticiasDataAccess\bin\Debug\NoticiasDataAccess.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasDataAccess\bin\Debug\NoticiasDataAccess.pdb
+C:\Users\Azate\Desktop\TestICv6\NoticiasDataAccess\bin\Debug\NoticiasBusinessEntities.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasDataAccess\bin\Debug\NoticiasInterfaces.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasDataAccess\bin\Debug\NoticiasMethodParameters.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasDataAccess\bin\Debug\NoticiasBusinessEntities.pdb
+C:\Users\Azate\Desktop\TestICv6\NoticiasDataAccess\bin\Debug\NoticiasInterfaces.pdb
+C:\Users\Azate\Desktop\TestICv6\NoticiasDataAccess\bin\Debug\NoticiasMethodParameters.pdb
+C:\Users\Azate\Desktop\TestICv6\NoticiasDataAccess\obj\Debug\NoticiasDataAccess.csproj.AssemblyReference.cache
+C:\Users\Azate\Desktop\TestICv6\NoticiasDataAccess\obj\Debug\NoticiasDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Azate\Desktop\TestICv6\NoticiasDataAccess\obj\Debug\NoticiasDataAccess.csproj.CopyComplete
+C:\Users\Azate\Desktop\TestICv6\NoticiasDataAccess\obj\Debug\NoticiasDataAccess.dll
+C:\Users\Azate\Desktop\TestICv6\NoticiasDataAccess\obj\Debug\NoticiasDataAccess.pdb
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasDataAccess\bin\Debug\NoticiasDataAccess.dll.config
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasDataAccess\bin\Debug\NoticiasDataAccess.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasDataAccess\bin\Debug\NoticiasDataAccess.pdb
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasDataAccess\bin\Debug\NoticiasBusinessEntities.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasDataAccess\bin\Debug\NoticiasInterfaces.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasDataAccess\bin\Debug\NoticiasMethodParameters.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasDataAccess\bin\Debug\NoticiasBusinessEntities.pdb
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasDataAccess\bin\Debug\NoticiasInterfaces.pdb
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasDataAccess\bin\Debug\NoticiasMethodParameters.pdb
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasDataAccess\obj\Debug\NoticiasDataAccess.csproj.AssemblyReference.cache
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasDataAccess\obj\Debug\NoticiasDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasDataAccess\obj\Debug\NoticiasDataAccess.csproj.CopyComplete
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasDataAccess\obj\Debug\NoticiasDataAccess.dll
+C:\Users\Azate\Desktop\TestICv6 - Back\NoticiasDataAccess\obj\Debug\NoticiasDataAccess.pdb
+C:\Users\Azate\Desktop\TestICv6\TestICv6 - Back\NoticiasDataAccess\bin\Debug\NoticiasDataAccess.dll.config
+C:\Users\Azate\Desktop\TestICv6\TestICv6 - Back\NoticiasDataAccess\bin\Debug\NoticiasDataAccess.dll
+C:\Users\Azate\Desktop\TestICv6\TestICv6 - Back\NoticiasDataAccess\bin\Debug\NoticiasDataAccess.pdb
+C:\Users\Azate\Desktop\TestICv6\TestICv6 - Back\NoticiasDataAccess\bin\Debug\NoticiasBusinessEntities.dll
+C:\Users\Azate\Desktop\TestICv6\TestICv6 - Back\NoticiasDataAccess\bin\Debug\NoticiasInterfaces.dll
+C:\Users\Azate\Desktop\TestICv6\TestICv6 - Back\NoticiasDataAccess\bin\Debug\NoticiasMethodParameters.dll
+C:\Users\Azate\Desktop\TestICv6\TestICv6 - Back\NoticiasDataAccess\bin\Debug\NoticiasBusinessEntities.pdb
+C:\Users\Azate\Desktop\TestICv6\TestICv6 - Back\NoticiasDataAccess\bin\Debug\NoticiasInterfaces.pdb
+C:\Users\Azate\Desktop\TestICv6\TestICv6 - Back\NoticiasDataAccess\bin\Debug\NoticiasMethodParameters.pdb
+C:\Users\Azate\Desktop\TestICv6\TestICv6 - Back\NoticiasDataAccess\obj\Debug\NoticiasDataAccess.csproj.AssemblyReference.cache
+C:\Users\Azate\Desktop\TestICv6\TestICv6 - Back\NoticiasDataAccess\obj\Debug\NoticiasDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Azate\Desktop\TestICv6\TestICv6 - Back\NoticiasDataAccess\obj\Debug\NoticiasDataAccess.csproj.CopyComplete
+C:\Users\Azate\Desktop\TestICv6\TestICv6 - Back\NoticiasDataAccess\obj\Debug\NoticiasDataAccess.dll
+C:\Users\Azate\Desktop\TestICv6\TestICv6 - Back\NoticiasDataAccess\obj\Debug\NoticiasDataAccess.pdb
